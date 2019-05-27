@@ -1,0 +1,16 @@
+{
+  "name": "strict-mobx-react-inject-typings-example",
+  "private": true,
+  "scripts": {
+    "typecheck": "tsc"
+  },
+  "dependencies": {
+    "mobx": "5.9.4",
+    "mobx-react": "5.4.4",
+    "react": "16.8.6"
+  },
+  "devDependencies": {
+    "@types/react-redux-typings-for-mobx-react": "npm:@types/react-redux@7.0.9",
+    "typescript": "3.4.5"
+  }
+}

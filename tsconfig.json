@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "jsx": "react",
+        "lib": ["es2015"],
+        "noEmit": true,
+        "strict": true
+    },
+}
+  
