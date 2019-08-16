@@ -6,7 +6,7 @@ This is an example of using custom strict `mobx-react/inject` typings. The offic
 ## Cons
 1. `inject` cannot be used as a decorator
 2. Extraneous `WrappedComponent` property
-3. Lack of `wrappedComponent` and `wrappedInstance` properties
+3. Lack of `wrappedComponent`
 
 ## Steps
 1. Run `npm install` (`npm@6.9.0` is required) or `yarn`
